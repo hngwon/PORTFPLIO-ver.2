@@ -22,7 +22,7 @@ a {
   height: auto;
   position: absolute;
   z-index: -1;
-  top: -100px;
+  top: -50px;
   left: 0;
   object-fit: cover;
 }
