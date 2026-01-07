@@ -19,7 +19,6 @@ a {
 
 .bg {
   width: 100%;
-  height: auto;
   position: absolute;
   z-index: -1;
   top: -100px;
