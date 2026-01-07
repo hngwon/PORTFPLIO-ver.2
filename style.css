@@ -1,7 +1,8 @@
-/* #wrap {
+#wrap {
   min-width: 1400px;
   overflow: hidden;
-} */
+  position: relative;
+}
 
 * {
   padding: 0;
@@ -17,13 +18,12 @@ a {
   color: inherit;
 }
 
-#wrap .bg{
+.bg{
   width: 100%;
   position: absolute;
   z-index: -1;
-  top: -100px;
+  bottom: 0;
   left: 0;
-  object-fit: cover;
 }
 
 /*  <!-- header-area start --> */
