@@ -506,13 +506,13 @@ position: relative;
   color: #1f2b22;
 }
 
-.section-title .back {
+/* .section-title .back {
   width: 200px;
   position: absolute;
   top: 15px;
   left: 280px;
   z-index: -1;
-}
+} */
 
 .icon {
   width: 25px;
