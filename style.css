@@ -1,7 +1,7 @@
-#wrap {
+/* #wrap {
   min-width: 1400px;
   overflow: hidden;
-}
+} */
 
 * {
   padding: 0;
@@ -17,7 +17,7 @@ a {
   color: inherit;
 }
 
-#wrap .bg {
+#wrap .bg{
   width: 100%;
   position: absolute;
   z-index: -1;
