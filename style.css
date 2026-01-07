@@ -17,12 +17,13 @@ a {
   color: inherit;
 }
 
-.bg {
+#wrap .bg {
   width: 100%;
   position: absolute;
   z-index: -1;
   top: -100px;
   left: 0;
+  object-fit: cover;
 }
 
 /*  <!-- header-area start --> */
