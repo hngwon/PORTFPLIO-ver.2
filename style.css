@@ -533,7 +533,7 @@ position: relative;
 
 /* ===== 카드 ===== */
 .sns-card {
-  width: auto;
+  width: 260px;
   flex-shrink: 0;
   transition: transform 0.3s ease;
 }
